@@ -1,0 +1,14 @@
+.git/             
+.idea/
+gradle/        
+local.properties
+AndroidPokemonGoogleMaps/
+.gradle
+settings.gradle
+app           
+gradle.properties
+SimpleCalculator.iml
+build/
+gradlew
+build.gradle      
+gradlew.bat
